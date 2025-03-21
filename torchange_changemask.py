@@ -12,8 +12,8 @@ I just rearranged the code for typing annotations and added the whole training w
 For anybody who not familiar with the workflow produced by library Ever, I removed the dataflow via that library.
 Some functions' implementation were rewritten.
 
-For the Chinese annotations, I'm gonna keep it for I was too lazy to translate my workflow into English as soon as
-I'm free to do this.
+For the Chinese annotations, I'm gonna keep it for I was too lazy to translate my workflow into English.
+I will do it as soon as I'm free to do.
 """
 
 import torch
